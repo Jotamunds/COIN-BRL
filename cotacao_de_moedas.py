@@ -14,10 +14,12 @@ class Moeda:
         cotacao = dicionario[f"{moeda}BRL"]["bid"]
 
         print(f"{moeda}-BRL\nCotação: R${cotacao}")
+        print("---")
 
 if __name__ == "__main__":
     funcionando = True
     while funcionando:
+        print("--- Cotação de Moedas ---")
         escolha = int(input("1 - Ver cotação\n2 - Sair\nEscolha: "))
         if escolha == 1:
             Moeda()
