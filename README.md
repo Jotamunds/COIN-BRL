@@ -1,5 +1,5 @@
 # Projeto de Cotação de Moedas
-### **PROJETO SIMPLES PARA _APRENDIZADO_**
+### **PROJETO PESSOAL PARA _APRENDIZADO_**
 ## Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
